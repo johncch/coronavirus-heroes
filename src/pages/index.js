@@ -6,24 +6,31 @@ import Header from "../components/header"
 import Row from "../components/row"
 import Item from "../components/item"
 
-const renderStuff = (numCols, data) => {
+const colWidth = 250
+const padding = 20
+
+const renderItems = (numCols, data) => {
   let cols = [...Array(numCols)].map(() => [])
-  const allHeroes = data.allDataYaml.edges[1].node.people
+  let allHeroes = []
+  for (let node of data.allDataYaml.nodes) {
+    allHeroes = allHeroes.concat(node.people)
+  }
   allHeroes.forEach((child, i) =>
-    cols[i % cols.length].push(<Item {...child} />)
+    cols[i % cols.length].push(<Item key={i} {...child} />)
   )
-  return cols.map(item => <Row>{item}</Row>)
+  return cols.map((item, i) => <Row key={i}>{item}</Row>)
 }
 
 export default ({ data }) => {
   const ref = React.useRef()
   const [numCols, setNumCols] = React.useState(3)
   const resizeHandler = () => {
-    let w = ref.current?.offsetWidth
+    let w = ref.current?.clientWidth - 2 * padding
     if (w) {
-      setNumCols(Math.floor(w / 300))
+      setNumCols(Math.floor(w / colWidth))
     }
   }
+
   React.useEffect(() => {
     window.addEventListener("resize", resizeHandler)
     resizeHandler()
@@ -35,19 +42,21 @@ export default ({ data }) => {
   return (
     <React.Fragment>
       <Header>
-        We honor the heroes who gave their life in the Coronavirus Crisis.
+        We honor the healthcare heroes who gave their life in the Coronavirus
+        Pandemic in 2020
       </Header>
       <div
         ref={ref}
         css={css`
           flex-grow: 1;
-          overflow: scroll;
+          overflow: visible;
           display: grid;
-          padding: 0 1em;
-          grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+          padding: 0 ${padding}px;
+          justify-content: center;
+          grid-template-columns: repeat(auto-fill, minmax(${colWidth}px, 1fr));
         `}
       >
-        {renderStuff(numCols, data)}
+        {renderItems(numCols, data)}
       </div>
     </React.Fragment>
   )
@@ -56,16 +65,14 @@ export default ({ data }) => {
 export const query = graphql`
   query {
     allDataYaml {
-      edges {
-        node {
-          people {
-            name
-            birth
-            death
-            details
-            location
-            source
-          }
+      nodes {
+        people {
+          name
+          birth
+          death
+          details
+          location
+          source
         }
       }
     }

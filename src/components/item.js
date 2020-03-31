@@ -7,6 +7,11 @@ const Item = ({ name, birth, death, location, details, source }) => (
       padding: 1rem;
       border-bottom: 1px solid rgba(255, 255, 255, 0.4);
       text-align: center;
+      box-sizing: border-box;
+
+      &:last-child {
+        border-bottom: 0;
+      }
     `}
   >
     <h3>{name}</h3>

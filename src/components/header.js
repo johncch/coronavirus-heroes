@@ -4,10 +4,12 @@ import { css } from "@emotion/core"
 const Header = ({ children }) => (
   <div
     css={css`
-      background: white;
+      position: sticky;
+      top: 0;
+      background: rgba(255, 255, 255, 0.92);
       color: black;
       text-align: center;
-      padding: 1.5rem 2rem;
+      padding: 1.3rem 1rem;
       font-size: 1.3em;
       border-bottom: 1px solid rgba(255, 255, 255, 0.2);
     `}
