@@ -16,7 +16,7 @@ const Item = ({ name, birth, death, location, details, source }) => (
   >
     <h3>{name}</h3>
     <p>
-      {birth}–{death}
+      {birth || "?"}–{death}
     </p>
     <p>{details}</p>
     <p>{location}</p>

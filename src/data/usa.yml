@@ -1,0 +1,20 @@
+location: usa
+people:
+  - name: Kious Kelly
+    birth: 28 September 1971
+    death: 24 March 2020
+    location: New York City
+    details: Assistant nurse manager at Mount Sinai West in Manhattan
+    source: https://www.nytimes.com/2020/03/26/nyregion/nurse-dies-coronavirus-mount-sinai.html
+  - name: Freda Ocran
+    birth:
+    death: 28 March 2020
+    location: New York City
+    details: Head nurse at Jacobi Medical Center’s psychiatric unit
+    source: https://nypost.com/2020/03/30/former-head-nurse-of-jacobi-medical-center-psychiatric-unit-dies-of-coronavirus/
+  - name: Theresa Lococo
+    birth:
+    death: 24 March 2020
+    location: New York City
+    details: Pediatric nurse at Kings County Hospital
+    source: https://www.pbs.org/newshour/health/new-york-virus-death-toll-rises-above-1200

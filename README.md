@@ -1,12 +1,13 @@
 # Coronavirus Heroes website
 
-This is a tribute site for heroes working in healthcare who gave up their lives during the Coronavirus Crisis in 2020.
+This is a memorial for healthcare workers who gave up their lives during the Coronavirus Crisis in 2020. We want to remember their courage and sacrifice in this difficult time.
 
-# Contribution
+## Contribution
 
-If this site is missing data, please send an email to chchua@dornier.com or send a pull request.
-The data is located under src/data/ folder
+You can find the data for the website under the `src/data/` folder.
 
-# Tech stack
+We try to be as up to date as possible. If you spot an error or would like to fill in missing information, please open a pull request or send an email to chchua@dornier.com.
+
+## Tech stack
 
 The site is written in [gatsby.js](https://www.gatsbyjs.org/)
