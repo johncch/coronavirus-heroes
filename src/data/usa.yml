@@ -18,3 +18,9 @@ people:
     location: New York City
     details: Pediatric nurse at Kings County Hospital
     source: https://www.pbs.org/newshour/health/new-york-virus-death-toll-rises-above-1200
+  - name: Frank Gabrin
+    birth:
+    death: 31 March 2020
+    location: New Jersey
+    details: ER Doctor at East Orange General Hospital, New Jersey
+    source: https://www.cbsnews.com/news/coronavirus-er-doctor-died-in-husbands-arms-week-afer-symptoms-new-jersey-hospital-dr-frank-gabrin/
