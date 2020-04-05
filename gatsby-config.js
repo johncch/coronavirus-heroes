@@ -20,5 +20,14 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: `gatsby-plugin-build-date`,
+      options: {
+        formatting: {
+          format: "MMM DD, Y, H:mm", // string, defaults to "MM/DD/YYYY" - pass in any acceptable date-and-time format
+          utc: true,
+        },
+      },
+    },
   ],
 }

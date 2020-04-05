@@ -18,7 +18,12 @@ const renderItems = (numCols, data) => {
   allHeroes.forEach((child, i) =>
     cols[i % cols.length].push(<Item key={i} {...child} />)
   )
-  return cols.map((item, i) => <Row key={i}>{item}</Row>)
+  return cols.map((item, i) => {
+    if (item && item.length > 0) {
+      return <Row key={i}>{item}</Row>
+    }
+    return null
+  })
 }
 
 export default ({ data }) => {
@@ -48,15 +53,31 @@ export default ({ data }) => {
       <div
         ref={ref}
         css={css`
+          display: flex;
+          flex-direction: row;
           flex-grow: 1;
           overflow: visible;
-          display: grid;
           padding: 0 ${padding}px;
-          justify-content: center;
-          grid-template-columns: repeat(auto-fill, minmax(${colWidth}px, 1fr));
         `}
       >
         {renderItems(numCols, data)}
+      </div>
+      <div
+        css={css`
+          position: sticky;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          background: #121212;
+          border-top: 1px solid rgba(255, 255, 255, 0.2);
+          padding: 0.8em;
+          text-align: center;
+          font-size: 0.9rem;
+        `}
+      >
+        Updated: {data.currentBuildDate.currentDate} UTC. Incorrect or missing
+        data?{" "}
+        <a href="https://github.com/johncch/coronavirus-heroes">Contribute</a>.
       </div>
     </React.Fragment>
   )
@@ -75,6 +96,9 @@ export const query = graphql`
           source
         }
       }
+    }
+    currentBuildDate {
+      currentDate
     }
   }
 `
