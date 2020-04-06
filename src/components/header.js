@@ -9,9 +9,12 @@ const Header = ({ children }) => (
       background: rgba(255, 255, 255, 0.92);
       color: black;
       text-align: center;
-      padding: 1.3rem 1rem;
+      padding: 1.3rem 1rem 0.5em;
       font-size: 1.25em;
       border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+      a {
+        color: black;
+      }
     `}
   >
     {children}

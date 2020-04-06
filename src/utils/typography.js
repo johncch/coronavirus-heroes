@@ -2,7 +2,7 @@ import Typography from "typography"
 
 const typography = new Typography({
   baseFontSize: "16px",
-  baseLineHeight: 1.3,
+  baseLineHeight: 1.4,
   bodyFontFamily: ["Noto Serif", "serif"],
   headerFontFamily: ["Roboto Condensed", "sans-serif"],
   blockMarginBottom: 0.5,

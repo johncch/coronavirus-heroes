@@ -47,8 +47,15 @@ export default ({ data }) => {
   return (
     <React.Fragment>
       <Header>
-        We honor the healthcare heroes who gave their life in the Coronavirus
+        We honor the healthcare heroes who gave their lives in the Coronavirus
         Pandemic in 2020
+        <p
+          css={css`
+            font-size: 0.9rem;
+          `}
+        >
+          <a href="/about">Read about this site</a>
+        </p>
       </Header>
       <div
         ref={ref}
