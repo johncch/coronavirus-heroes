@@ -24,3 +24,10 @@ people:
     location: New Jersey
     details: ER Doctor at East Orange General Hospital, New Jersey
     source: https://www.cbsnews.com/news/coronavirus-er-doctor-died-in-husbands-arms-week-afer-symptoms-new-jersey-hospital-dr-frank-gabrin/
+  - name: James Tait Goodrich
+    birth: 16 Apr 1946
+    death: 30 March 2020
+    location: Bronx
+    details: Pediatric Neurosurgeon
+    source: https://www.washingtonpost.com/lifestyle/2020/04/01/neurosurgeon-who-became-famous-separating-conjoined-twins-died-covid-19-his-real-legacy-is-his-humanity/
+    
