@@ -42,6 +42,11 @@ export default ({ data }) => (
           https://www.newsweek.com/coronavirus-deaths-infections-doctors-nurses-healthcare-workers-medical-staff-1496056
         </a>
       </li>
+      <li>
+        <a href="https://www.newyorker.com/science/medical-dispatch/how-doctors-on-the-front-lines-are-confronting-the-uncertainties-of-covid-19">
+          https://www.newyorker.com/science/medical-dispatch/how-doctors-on-the-front-lines-are-confronting-the-uncertainties-of-covid-19
+        </a>
+      </li>
     </ul>
   </div>
 )
