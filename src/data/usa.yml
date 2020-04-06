@@ -1,11 +1,5 @@
 location: usa
 people:
-  - name: Kious Kelly
-    birth: 28 September 1971
-    death: 24 March 2020
-    location: New York City
-    details: Assistant nurse manager at Mount Sinai West in Manhattan
-    source: https://www.nytimes.com/2020/03/26/nyregion/nurse-dies-coronavirus-mount-sinai.html
   - name: Freda Ocran
     birth: "1970"
     death: 28 March 2020
