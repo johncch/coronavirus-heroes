@@ -127,7 +127,7 @@ people:
     details: Perinatal Clinical Nurse Specialist at SSM Health St. Mary's Hospital
     source: http://www.stlamerican.com/news/local_news/nurse-judy-wilson-griffin-is-first-covid-19-death-in-st-louis-region/article_1d422bea-6b06-11ea-83e1-17bbd703c8fb.html
   - name: Chris Firlit
-    birth: 1983
+    birth: "1983"
     death: 5 April 2020
     location: Warren, Michigan
     details: Senior Resident Oral Maxillofacial Surgeon at Ascension Macomb-Oakland Hospital
