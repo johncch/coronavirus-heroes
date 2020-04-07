@@ -132,4 +132,45 @@ people:
     location: Warren, Michigan
     details: Senior Resident Oral Maxillofacial Surgeon at Ascension Macomb-Oakland Hospital
     source: https://www.detroitnews.com/story/business/2020/04/05/help-coronavirus-patients-lose-job-beaumont-tells-workers/2948002001/
-
+  - name: Jesus Villaluz
+    birth: "1945"
+    death: 3 April 2020
+    location: Teaneck, New Jersey
+    details: Patient Transport Worker at Holy Name Medical Center
+    source: https://www.nj.com/bergen/2020/04/nj-hospital-worker-known-for-his-unforgettable-smile-dies-from-coronavirus.html
+  - name: Ashraf Abdo
+    birth: "1960"
+    death: 1 April 2020
+    location: New York
+    details: General Practitioner
+    source: https://www.egypttoday.com/Article/1/83243/Egyptian-doctor-dies-in-United-States-due-to-COVID-19
+  - name: Jeffrey Baumbach
+    birth: "1963"
+    death: 30 March 2020
+    location: Stockton, California
+    details: Nurse at St. Joseph's Medical Center
+    source: https://www.recordnet.com/news/20200403/nurse-at-st-josephs-medical-center-dies-of-coronavirus-complications
+  - name: Andres Benitez
+    birth: ??
+    death: 30 March 2020
+    location: Teaneck, New Jersey
+    details: Food Caterer at Holy Name Medical Center
+    source: https://dailyvoice.com/new-jersey/teaneck/news/beloved-holy-name-caterer-killed-by-coronavirus/785477/
+  - name: John Cofrancesco
+    birth: "1968"
+    death: 19 March 2020
+    location: Montclair, New Jersey
+    details: Administrator at Family of Caring
+    source: https://dailyvoice.com/new-jersey/essex/news/he-lived-his-passion-bergenfield-dad-montclair-nursing-home-admin-killed-by-coronavirus/785481/
+  - name: Lisa Ewald
+    birth: "1966"
+    death: 31 March 2020
+    location: Detroit, Michigan
+    details: Nurse at Henry Ford Health System
+    source: https://www.michiganradio.org/post/lisa-ewald-henry-ford-nurse-dies-after-testing-positive-covid-19
+  - name: Isaac Abadi
+    birth: "1936"
+    death: 1 April 2020
+    location: New York
+    details: Rheumatologist at Hospital for Special Surgery
+    source: https://www.local10.com/news/local/2020/04/04/prominent-venezuelan-doctor-dies-in-miami-of-coronavirus/
