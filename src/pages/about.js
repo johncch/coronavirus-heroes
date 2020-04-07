@@ -15,10 +15,13 @@ export default ({ data }) => (
     <h1>About Coronavirus Heroes</h1>
     <p>In memoriam: healthcare workers who have died of COVID-19.</p>
     <p>
-      Our healthcare workers are very much at risk of contracting COVID-19. We
-      wanted to honor those who lost their lives during the pandemic, and to
-      demand wider availability of Personal Protective Equipment for those
-      fighting in the front lines.
+      Our front line healthcare workers, the everyday heroes we rely on to care
+      for us in our time of need, are themselves at great risk of contracting
+      COVID-19 in the line of duty. The risk has been exacerbated by the shortage 
+      of Personal Protective Equipment (PPE) at the front lines. We want to honor 
+      the fallen heroes who have lost their lives fighting this pandemic, while
+      highlighting the severity of the situation to call for action to provide
+      adequate supplies of PPE to the front lines with utmost urgency.
     </p>
     <p>Read more in news sources:</p>
     <ul>

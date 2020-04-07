@@ -1,11 +1,5 @@
 location: usa
 people:
-  - name: Kious Kelly
-    birth: 28 September 1971
-    death: 24 March 2020
-    location: New York City
-    details: Assistant nurse manager at Mount Sinai West in Manhattan
-    source: https://www.nytimes.com/2020/03/26/nyregion/nurse-dies-coronavirus-mount-sinai.html
   - name: Freda Ocran
     birth: "1970"
     death: 28 March 2020
@@ -21,31 +15,31 @@ people:
   - name: Frank Gabrin
     birth: "1960"
     death: 31 March 2020
-    location: East Orange
+    location: East Orange, New Jersey
     details: Physician - Emergency Medicine at East Orange General Hospital
     source: https://www.cbsnews.com/news/coronavirus-er-doctor-died-in-husbands-arms-week-afer-symptoms-new-jersey-hospital-dr-frank-gabrin/
   - name: James Tait Goodrich
     birth: 16 April 1946
     death: 30 March 2020
-    location: Bronx
+    location: Bronx, New York
     details: Pediatric Neurosurgeon at Montefiore
     source: https://www.washingtonpost.com/lifestyle/2020/04/01/neurosurgeon-who-became-famous-separating-conjoined-twins-died-covid-19-his-real-legacy-is-his-humanity/
   - name: Jeannie Danker
     birth: "1960"
     death: 29 March 2020
-    location: Columbus
+    location: Columbus, Ohio
     details: Director of Radiology at Ohio State University Wexner Medical Center
     source: https://www.10tv.com/article/director-radiology-wexner-medical-center-dies-coronavirus-2020-mar
   - name: Araceli Buendia Ilagan
     birth: "1957"
     death: 27 March 2020
-    location: Miami
+    location: Miami, Florida
     details: SICU Nurse Manager at Jackson Memorial Hospital
     source: https://www.cbsnews.com/news/coronavirus-nurse-dies-from-covid-19-miami-hospital/
   - name: Alex Hsu
     birth: "1953"
     death: 25 March 2020
-    location: Margate
+    location: Margate, Florida
     details: Physician - Internal Medicine at Northwest Medical Center
     source: https://wsvn.com/news/local/broward/margate-doctor-becomes-first-medical-professional-to-die-from-covid-19-in-south-florida/?utm_medium=social&utm_source=twitter_wsvn
   - name: Kious Jordan Kelly
@@ -57,73 +51,73 @@ people:
   - name: John Frederic Murray
     birth: 8 June 1927
     death: 24 March 2020
-    location: San Francisco
+    location: San Francisco, California
     details: Professor Emeritus at University of California, San Francisco School of Medicine
     source: https://www.nytimes.com/2020/04/02/science/john-murray-dead-coronavirus.html
   - name: Stephen Schwartz
     birth:
     death: 17 March 2020
-    location: Seattle
+    location: Seattle, Washington
     details: Pathologist at University of Washington
     source: https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-march-18-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-nation/#update-12600066
   - name: Larrice Anderson
     birth:
     death: 31 March 2020
-    location: New Orleans
+    location: New Orleans, Louisiana
     details: Nurse at New Orleans East Hospital
     source: https://www.nola.com/news/coronavirus/article_1deda660-7460-11ea-a260-7f9979779d87.html
   - name: Madhvi Aya
     birth: "1959"
     death: 29 March 2020
-    location: Brooklyn
+    location: Brooklyn, New York
     details: Physician Assistant, Emergency Medicine at Woodhull Medical Center
     source: https://www.gofundme.com/f/in-memory-of-madhvi-aya
   - name: Ricardo Castaneda
     birth: "1956"
     death:
-    location: New York City
+    location: New York City, New York
     details: Psychiatrist
     source: https://www.medscape.com/viewarticle/927976
   - name: Raul D. Eslao
     birth: "1967"
     death: 30 March 2020
-    location: Westland
+    location: Westland, Michigan
     details: Nurse
     source: https://www.gofundme.com/f/raul-della-eslao-memorial-fund
   - name: Capt. Douglas Linn Hickok
     birth: "1963"
     death: 28 March 2020
-    location: East Stroudsburg
+    location: East Stroudsburg, Pennsylvania
     details: Physician Assistant with New Jersey National Guard
     source: https://www.stripes.com/news/us/military-s-first-member-to-die-from-coronavirus-remembered-as-man-who-loved-god-country-and-family-1.624392
   - name: Kim King-Smith
     birth: "1967"
     death: 31 March 2020
-    location: Newark
+    location: Newark, New Jersey
     details: EKG technician at Newark University Hospital
     source: https://abc7ny.com/coronavirus-newark-hospital-technician-ekg-dies/6069617/
   - name: Rabbi Yaakov Meltzer
     birth: "1960"
     death: 24 March 2020
-    location: Brooklyn
+    location: Brooklyn, New York
     details: Physician Assistant at Quality Healthcare
     source: https://www.jpost.com/breaking-news/yaakov-meltzer-a-member-of-queens-hatzolah-dies-at-age-60-622551
   - name: Tomas Pattugalan
     birth: "1950"
     death: 29 March 2020
-    location: Queens
+    location: Queens, New York
     details: Internal Medicine Physician at Primary PartnerCare
     source: http://www.oleantimesherald.com/news/state/primary-partnercare-loses-primary-care-physician-to-covid-19/article_4faacd53-2389-5770-bc04-ad4907f13e22.html
   - name: Mark Respler
     birth: "1954"
     death: 27 March 2020
-    location: Brooklyn
+    location: Brooklyn, New York
     details: Urologist at Ahava Medical & Rehabilitation Center
     source: https://hamodia.com/2020/03/27/bde-dr-mark-allen-respler-niftar-coronavirus/
   - name: Diedre Wilkes
     birth: "1978"
     death: 26 March 2020
-    location: Newnan
+    location: Newnan, Georgia
     details: Mammogram Technician at Piedmont Newnan Hospital
     source: https://www.nbcnews.com/news/us-news/coronavirus-georgia-mom-who-worked-hospital-found-dead-home-her-n1168386
   - name: Judy Wilson-Griffin
@@ -132,3 +126,10 @@ people:
     location: St. Louis
     details: Perinatal Clinical Nurse Specialist at SSM Health St. Mary's Hospital
     source: http://www.stlamerican.com/news/local_news/nurse-judy-wilson-griffin-is-first-covid-19-death-in-st-louis-region/article_1d422bea-6b06-11ea-83e1-17bbd703c8fb.html
+  - name: Chris Firlit
+    birth: "1983"
+    death: 5 April 2020
+    location: Warren, Michigan
+    details: Senior Resident Oral Maxillofacial Surgeon at Ascension Macomb-Oakland Hospital
+    source: https://www.detroitnews.com/story/business/2020/04/05/help-coronavirus-patients-lose-job-beaumont-tells-workers/2948002001/
+
