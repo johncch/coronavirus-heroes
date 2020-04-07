@@ -5,7 +5,16 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "Coronavirus Heroes",
+    titleTemplate: "%s - In memorium",
+    description:
+      "We honor the healthcare heroes who gave their lives in the Coronavirus Pandemic in 2020",
+    url: "https://www.coronavirus-heroes.org",
+    image: "/images/title-card.png",
+  },
   plugins: [
+    `gatsby-plugin-react-helmet`,
     `gatsby-transformer-yaml`,
     `gatsby-plugin-emotion`,
     {

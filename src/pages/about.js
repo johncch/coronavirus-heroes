@@ -1,5 +1,6 @@
 import React from "react"
 import { css } from "@emotion/core"
+import SEO from "../components/seo"
 
 export default ({ data }) => (
   <div
@@ -9,6 +10,7 @@ export default ({ data }) => (
       padding: 20px;
     `}
   >
+    <SEO />
     <p>
       <a href="/">Back to the list</a>
     </p>

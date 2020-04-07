@@ -5,6 +5,7 @@ import { css } from "@emotion/core"
 import Header from "../components/header"
 import Row from "../components/row"
 import Item from "../components/item"
+import SEO from "../components/seo"
 
 const colWidth = 250
 const padding = 20
@@ -46,6 +47,7 @@ export default ({ data }) => {
 
   return (
     <React.Fragment>
+      <SEO />
       <Header>
         We honor the healthcare heroes who gave their lives in the Coronavirus
         Pandemic in 2020
