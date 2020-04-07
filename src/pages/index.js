@@ -54,7 +54,15 @@ export default ({ data }) => {
             font-size: 0.9rem;
           `}
         >
-          <a href="/about">Read about this site</a>
+          <a href="/about">Read about this site</a>{" "}
+          <a
+            css={css`
+              margin-left: 0.5em;
+            `}
+            href="https://github.com/johncch/coronavirus-heroes#contributing"
+          >
+            Outside the US?
+          </a>
         </p>
       </Header>
       <div
@@ -84,7 +92,10 @@ export default ({ data }) => {
       >
         Updated: {data.currentBuildDate.currentDate} UTC. Incorrect or missing
         data?{" "}
-        <a href="https://github.com/johncch/coronavirus-heroes">Contribute</a>.
+        <a href="https://github.com/johncch/coronavirus-heroes#contributing">
+          Contribute
+        </a>
+        .
       </div>
     </React.Fragment>
   )

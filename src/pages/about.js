@@ -17,37 +17,47 @@ export default ({ data }) => (
     <p>
       Our front line healthcare workers, the everyday heroes we rely on to care
       for us in our time of need, are themselves at great risk of contracting
-      COVID-19 in the line of duty. The risk has been exacerbated by the shortage 
-      of Personal Protective Equipment (PPE) at the front lines. We want to honor 
-      the fallen heroes who have lost their lives fighting this pandemic, while
-      highlighting the severity of the situation to call for action to provide
-      adequate supplies of PPE to the front lines with utmost urgency.
+      COVID-19 in the line of duty. The risk has been exacerbated by the
+      shortage of Personal Protective Equipment (PPE) at the front lines. We
+      want to honor the fallen heroes who have lost their lives fighting this
+      pandemic, while highlighting the severity of the situation to call for
+      action to provide adequate supplies of PPE to the front lines with utmost
+      urgency.
     </p>
     <p>Read more in news sources:</p>
     <ul>
       <li>
         <a href="https://www.washingtonpost.com/nation/2020/04/05/youre-basically-right-next-nuclear-reactor/?arc404=true">
-          https://www.washingtonpost.com/nation/2020/04/05/youre-basically-right-next-nuclear-reactor/?arc404=true
+          ‘You’re basically right next to the nuclear reactor.’
         </a>
       </li>
       <li>
         <a href="https://www.cbsnews.com/news/home-health-care-workers-are-taking-care-of-americas-most-vulnerable-and-theyre-doing-it-without-ppe/">
-          https://www.cbsnews.com/news/home-health-care-workers-are-taking-care-of-americas-most-vulnerable-and-theyre-doing-it-without-ppe/
+          Home health care workers are taking care of America's most vulnerable
+          – and they're doing it without PPE
         </a>
       </li>
       <li>
         <a href="https://www.straitstimes.com/world/united-states/chronic-global-shortage-of-personal-protective-gear-who">
-          https://www.straitstimes.com/world/united-states/chronic-global-shortage-of-personal-protective-gear-who
+          Coronavirus: Chronic global shortage of personal protective gear, says
+          World Health Organisation
         </a>
       </li>
       <li>
         <a href="https://www.newsweek.com/coronavirus-deaths-infections-doctors-nurses-healthcare-workers-medical-staff-1496056">
-          https://www.newsweek.com/coronavirus-deaths-infections-doctors-nurses-healthcare-workers-medical-staff-1496056
+          Over 100 Doctors and Nurses Have Died Combating Coronavirus Across the
+          World
         </a>
       </li>
       <li>
         <a href="https://www.newyorker.com/science/medical-dispatch/how-doctors-on-the-front-lines-are-confronting-the-uncertainties-of-covid-19">
-          https://www.newyorker.com/science/medical-dispatch/how-doctors-on-the-front-lines-are-confronting-the-uncertainties-of-covid-19
+          How Doctors on the Front Lines Are Confronting the Uncertainties of
+          COVID-19
+        </a>
+      </li>
+      <li>
+        <a href="https://www.medscape.com/viewarticle/927811">
+          Topol: US Betrays Healthcare Workers in Coronavirus Disaster
         </a>
       </li>
     </ul>
