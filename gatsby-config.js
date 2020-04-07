@@ -9,9 +9,9 @@ module.exports = {
     title: "Coronavirus Heroes",
     titleTemplate: "%s - In memorium",
     description:
-      "We honor the healthcare heroes who gave their lives in the Coronavirus Pandemic in 2020",
+      "We honor the healthcare heroes who gave their lives in the Coronavirus Pandemic in 2020. Get PPE to our healthcare workers to keep them safe as they continue this important work.",
     url: "https://www.coronavirus-heroes.org",
-    image: "/images/title-card.png",
+    image: "/images/title-card.jpg",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
