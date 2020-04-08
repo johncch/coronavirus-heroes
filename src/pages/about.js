@@ -62,6 +62,23 @@ export default ({ data }) => (
           Topol: US Betrays Healthcare Workers in Coronavirus Disaster
         </a>
       </li>
+      <li>
+        <a href="https://news.sky.com/story/coronavirus-italys-doctors-and-nurses-are-in-trauma-over-deaths-of-more-than-100-colleagues-11968928">
+          Coronavirus: Italy's doctors and nurses are in trauma over deaths of
+          more than 100 colleagues
+        </a>
+      </li>
+      <li>
+        <a href="https://www.mirror.co.uk/news/uk-news/faces-doctors-nurses-who-died-21825137">
+          Faces of the doctors and nurses who have died on the coronavirus
+          frontline
+        </a>
+      </li>
+      <li>
+        <a href="https://www.sbs.com.au/news/the-coronavirus-has-now-killed-24-doctors-in-indonesia">
+          The coronavirus has now killed 24 doctors in Indonesia
+        </a>
+      </li>
     </ul>
   </div>
 )
