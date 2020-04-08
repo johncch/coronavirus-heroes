@@ -174,3 +174,39 @@ people:
     location: New York
     details: Rheumatologist at Hospital for Special Surgery
     source: https://www.local10.com/news/local/2020/04/04/prominent-venezuelan-doctor-dies-in-miami-of-coronavirus/
+  - name: William Vincent Murdock
+    birth: "1957"
+    death: 26 March 2020
+    location: Miami, Florida
+    details: MRI Technologist at University of Miami Health System
+    source: https://www.local10.com/news/local/2020/04/01/more-details-released-about-university-of-miami-health-system-employee-who-died-from-new-coronavirus/
+  - name: John Abruzzo
+    birth: "1957"
+    death: 2 April 2020
+    location: Huntington, New York
+    details: Nurse at Huntington Hospital
+    source: https://www.newsday.com/news/health/coronavirus/huntington-hospital-nurse-dies-coronavirus-1.43643991
+  - name: Divinia Accad
+    birth: "1948"
+    death: 30 March 2020
+    location: Detroit, Michigan
+    details: Nurse at John D. Dingell VA Medical Center
+    source: https://www.freep.com/story/news/local/2020/04/04/coronavirus-michigan-nurses-die/2943336001/?fbclid=IwAR3pXZJNk3gkmU0rcl3d0AnYTrp9g3irnUCfQ68y9rZNKBQznJAG-odT9vA
+  - name: James House
+    birth: "1960"
+    death: April 2020
+    location: Detroit, Michigan
+    details: Nurse at Omni Continuing Care
+    source: https://www.freep.com/story/news/local/2020/04/04/coronavirus-michigan-nurses-die/2943336001/?fbclid=IwAR3pXZJNk3gkmU0rcl3d0AnYTrp9g3irnUCfQ68y9rZNKBQznJAG-odT9vA
+  - name: Patrick Cain
+    birth: ??
+    death: April 2020
+    location: Flint, Michigan
+    details: Registered Nurse, ICU at McLaren Flint
+    source: https://www.wnem.com/news/breaking-local-rn-dies-from-covid-19-complications/article_a5cd58ae-7821-11ea-85cd-93cff9ae0abd.html
+  - name: Rosary Castro-Olega
+    birth: 7 October 1956
+    death: 29 March 2020
+    location: Los Angeles, California
+    details: Registered Nurse at Cedars Sinai Hospital
+    source: https://www.forevermissed.com/rosary-castro-olega/about
