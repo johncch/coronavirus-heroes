@@ -27,6 +27,14 @@ const renderItems = (numCols, data) => {
   })
 }
 
+const countHeroes = data => {
+  let count = 0
+  for (let node of data.allDataYaml.nodes) {
+    count += node.people.length || 0
+  }
+  return count
+}
+
 export default ({ data }) => {
   const ref = React.useRef()
   const [numCols, setNumCols] = React.useState(3)
@@ -49,8 +57,8 @@ export default ({ data }) => {
     <React.Fragment>
       <SEO />
       <Header>
-        We honor the healthcare heroes who gave their lives in the Coronavirus
-        Pandemic in 2020
+        We honor the {countHeroes(data)} healthcare heroes who gave their lives
+        in the Coronavirus Pandemic in 2020
         <p
           css={css`
             font-size: 0.9rem;
