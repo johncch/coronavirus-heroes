@@ -14,7 +14,9 @@ const renderItems = (numCols, data) => {
   let cols = [...Array(numCols)].map(() => [])
   let allHeroes = []
   for (let node of data.allDataYaml.nodes) {
-    allHeroes = allHeroes.concat(node.people)
+    if (node.people) {
+      allHeroes = allHeroes.concat(node.people)
+    }
   }
   allHeroes.forEach((child, i) =>
     cols[i % cols.length].push(<Item key={i} {...child} />)
