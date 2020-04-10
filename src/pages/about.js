@@ -1,6 +1,30 @@
 import React from "react"
+import { graphql } from "gatsby"
 import { css } from "@emotion/core"
 import SEO from "../components/seo"
+
+const renderItems = data => {
+  let articles = []
+  for (let node of data.allDataYaml.nodes) {
+    if (node.articles) {
+      articles = articles.concat(node.articles)
+    }
+  }
+  return articles.map((item, i) => {
+    return (
+      <li key={i}>
+        <a href={item.url}>{item.title}</a>{" "}
+        <span
+          css={css`
+            opacity: 0.6;
+          `}
+        >
+          [{item.source}]
+        </span>
+      </li>
+    )
+  })
+}
 
 export default ({ data }) => (
   <div
@@ -27,58 +51,28 @@ export default ({ data }) => (
       urgency.
     </p>
     <p>Read more in news sources:</p>
-    <ul>
-      <li>
-        <a href="https://www.washingtonpost.com/nation/2020/04/05/youre-basically-right-next-nuclear-reactor/?arc404=true">
-          ‘You’re basically right next to the nuclear reactor.’
-        </a>
-      </li>
-      <li>
-        <a href="https://www.cbsnews.com/news/home-health-care-workers-are-taking-care-of-americas-most-vulnerable-and-theyre-doing-it-without-ppe/">
-          Home health care workers are taking care of America's most vulnerable
-          – and they're doing it without PPE
-        </a>
-      </li>
-      <li>
-        <a href="https://www.straitstimes.com/world/united-states/chronic-global-shortage-of-personal-protective-gear-who">
-          Coronavirus: Chronic global shortage of personal protective gear, says
-          World Health Organisation
-        </a>
-      </li>
-      <li>
-        <a href="https://www.newsweek.com/coronavirus-deaths-infections-doctors-nurses-healthcare-workers-medical-staff-1496056">
-          Over 100 Doctors and Nurses Have Died Combating Coronavirus Across the
-          World
-        </a>
-      </li>
-      <li>
-        <a href="https://www.newyorker.com/science/medical-dispatch/how-doctors-on-the-front-lines-are-confronting-the-uncertainties-of-covid-19">
-          How Doctors on the Front Lines Are Confronting the Uncertainties of
-          COVID-19
-        </a>
-      </li>
-      <li>
-        <a href="https://www.medscape.com/viewarticle/927811">
-          Topol: US Betrays Healthcare Workers in Coronavirus Disaster
-        </a>
-      </li>
-      <li>
-        <a href="https://news.sky.com/story/coronavirus-italys-doctors-and-nurses-are-in-trauma-over-deaths-of-more-than-100-colleagues-11968928">
-          Coronavirus: Italy's doctors and nurses are in trauma over deaths of
-          more than 100 colleagues
-        </a>
-      </li>
-      <li>
-        <a href="https://www.mirror.co.uk/news/uk-news/faces-doctors-nurses-who-died-21825137">
-          Faces of the doctors and nurses who have died on the coronavirus
-          frontline
-        </a>
-      </li>
-      <li>
-        <a href="https://www.sbs.com.au/news/the-coronavirus-has-now-killed-24-doctors-in-indonesia">
-          The coronavirus has now killed 24 doctors in Indonesia
-        </a>
-      </li>
+    <ul
+      css={css`
+        li {
+          margin-bottom: 1em;
+        }
+      `}
+    >
+      {renderItems(data)}
     </ul>
   </div>
 )
+
+export const query = graphql`
+  query {
+    allDataYaml {
+      nodes {
+        articles {
+          title
+          url
+          source
+        }
+      }
+    }
+  }
+`

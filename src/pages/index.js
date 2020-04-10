@@ -30,7 +30,7 @@ const renderItems = (numCols, data) => {
 const countHeroes = data => {
   let count = 0
   for (let node of data.allDataYaml.nodes) {
-    count += node.people.length || 0
+    count += (node.people && node.people.length) || 0
   }
   return count
 }
