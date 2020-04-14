@@ -264,4 +264,71 @@ people:
     location: Brooklyn, New York
     details: Radiologist, Mammography and Breast Imaging at Brooklyn Hospital Center
     source: https://newyork.cbslocal.com/video/4508374-family-mourns-brooklyn-doctor-who-died-of-covid-19/
+  - name: Vianna Thompson
+    birth: "1968"
+    death: 7 April 2020
+    location: Reno, Nevada
+    details: Registered Nurse at VA Northern Sierra Health Care System
+    source: https://www.rgj.com/story/news/2020/04/07/covid-19-reno-nurse-dies-va-hospital-where-she-cared-patients/2966935001/
+  - name: Susan Sisgundo
+    birth: 8 May 1969
+    death: 8 April 2020
+    location: New York City, New York
+    details: Registered Nurse, Neonatal Intensive Care Unit at Bellevue Hospital
+    source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.XpPGyHIRXb3
+  - name: Barbara Finch
+    birth: "1957"
+    death: 29 March 2020
+    location: Emporia, Virginia
+    details: Licensed Practical Nurse at Southern Virginia Regional Medical Center
+    source: https://www.legacy.com/news/covid19-memorial/barbara-r-finch/
+  - name: Elliott Samet
+    birth: ??
+    death: 7 April 2020
+    location: Passaic, New Jersey
+    details: 'Neonatologist at St. Mary''s General Hospital'
+    source: https://www.northjersey.com/story/news/coronavirus/2020/04/07/coronavirus-beloved-passaic-nj-pediatrician-st-marys-doctor-dies/2966884001/
+  - name: Ronald Verrier
+    birth: "1961"
+    death: 8 April 2020
+    location: Bronx, New York
+    details: Trauma Surgeon at St. Barnabas Hospital
+    source: https://www.ny1.com/nyc/all-boroughs/coronavirus-victims/2020/04/12/st--barnabas-surgeon-dies-from-coronavirus-complications-
+  - name: Luis Caldera-Nieves
+    birth: ??
+    death: 8 April 2020
+    location: Miami, Florida
+    details: Gynecologist at University of Miami Health System
+    source: https://www.local10.com/news/local/2020/04/09/longtime-south-florida-doctor-dies-from-coronavirus-complications/
+  - name: Prea Nankieshore
+    birth: "1986"
+    death: 5 April 2020
+    location: Long Island, New York
+    details: Emergency Room Clerk at Long Island Jewish Forest Hills Hospital
+    source: https://www.ny1.com/nyc/all-boroughs/news/2020/04/09/queens-er-clerk-dies-from-coronavirus
+  - name: Kevin Graiani
+    birth: "1963"
+    death: 30 March 2020
+    location: New York, New York
+    details: Nurse Practitioner
+    source: https://scanlanfuneralhome.com/tribute/details/9478/Kevin-Graiani/obituary.html
+  - name: Roger Liddell
+    birth: ??
+    death: 10 April 2020
+    location: Flint, Michigan
+    details: ICU/CCU Supply Chain Manager at McLaren Flint Hospital
+    source: https://www.mlive.com/news/flint/2020/04/mclaren-flint-hospital-employee-dies-due-to-coronavirus-complications.html
+  - name: Paul Novicki
+    birth: "1969"
+    death: 9 April 2020
+    location: Huron Township, Michigan
+    details: Rapid Response EMS Paramedic
+    source: https://www.fox2detroit.com/news/son-of-emt-who-died-of-covid-19-urges-everyone-to-stay-home-to-avoid-their-nightmare
+  - name: Mary Ellen Porter
+    birth: "1955"
+    death: 9 April 2020
+    location: Staten Island, New York
+    details: Nurse Manager at Richmond University Medical Center
+    source: https://www.silive.com/coronavirus/2020/04/mary-ellen-porter-rumc-nurse-manager-reportedly-dies-after-bout-with-coronavirus.html
+
 
