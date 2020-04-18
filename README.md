@@ -1,6 +1,6 @@
 # Coronavirus Heroes
 
-This is a memorial for healthcare workers who gave up their lives during the Coronavirus Crisis in 2020. We want to remember their courage and sacrifice in this difficult time.
+This is a memorial for healthcare workers who gave up their lives during the COVID-19 crisis. We want to remember their courage and sacrifice in this difficult time.
 
 ## Contributing
 
