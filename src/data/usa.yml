@@ -1,41 +1,11 @@
 location: usa
 people:
-  - name: Bruce Davis
-    birth: ?? 
-    death: ??
-    location: Milledgeville, Georgia
-    details: Shift Leader at Central State Hospital
-    source: https://www.unionrecorder.com/news/he-was-just-one-of-those-people-who-loved-people/article_461e0938-7dd2-11ea-a645-d70f637a9a95.html
-  - name: Kenneth James Bradshaw
-    birth: 26 Mar 2020
-    death: ??
-    location: Memphis, Tennessee
-    details: Director of Facilities Administration at University of Tennessee Health Science Center
-    source: https://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=kenneth-james-bradshaw&pid=195926607
-  - name: Ricardo Castaneda
-    birth: ?? 1956
-    death: ??
-    location: New York City, New York
-    details: Psychiatrist
-    source: https://www.medscape.com/viewarticle/927976
-  - name: Theresa Lococo
-    birth: ?? 1952
-    death: ??
-    location: New York City, New York
-    details: Pediatric Nurse at Kings County Hospital
-    source: https://nypost.com/2020/03/30/former-head-nurse-of-jacobi-medical-center-psychiatric-unit-dies-of-coronavirus/
-  - name: Yaw Asante
-    birth: ?? 
-    death: ??
-    location: Bronx, New York
-    details: Registered Nurse at Lincoln Medical Center
-    source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.Xp5uXpkRVhE
-  - name: Danielle Hendrick DiCenso
-    birth: ?? 1987
-    death: ??
-    location: Wellington, Florida
-    details: Registered Nurse at Palmetto General Hospital
-    source: https://nypost.com/2020/04/14/33-year-old-florida-nurse-dies-after-being-exposed-to-coronavirus/
+  - name:
+    birth: ?? 1971
+    death: 26 Apr 2020
+    location: New York, New York
+    details: Medical Director, Emergency Department at NewYork-Presbyterian Allen Hospital
+    source: https://www.nytimes.com/2020/04/27/nyregion/new-york-city-doctor-suicide-coronavirus.html
   - name: Karla Dominguez
     birth: ?? 1987
     death: 24 Apr 2020
@@ -564,3 +534,39 @@ people:
     location: New York City, New York
     details: Medical Director at Phoenix House
     source: https://abc7ny.com/doctor-dead-doug-bass-killed-by-coronavirus-nyc/6088268/
+  - name: Bruce Davis
+    birth: ?? 
+    death: ??
+    location: Milledgeville, Georgia
+    details: Shift Leader at Central State Hospital
+    source: https://www.unionrecorder.com/news/he-was-just-one-of-those-people-who-loved-people/article_461e0938-7dd2-11ea-a645-d70f637a9a95.html
+  - name: Kenneth James Bradshaw
+    birth: 26 Mar 2020
+    death: ??
+    location: Memphis, Tennessee
+    details: Director of Facilities Administration at University of Tennessee Health Science Center
+    source: https://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=kenneth-james-bradshaw&pid=195926607
+  - name: Ricardo Castaneda
+    birth: ?? 1956
+    death: ??
+    location: New York City, New York
+    details: Psychiatrist
+    source: https://www.medscape.com/viewarticle/927976
+  - name: Theresa Lococo
+    birth: ?? 1952
+    death: ??
+    location: New York City, New York
+    details: Pediatric Nurse at Kings County Hospital
+    source: https://nypost.com/2020/03/30/former-head-nurse-of-jacobi-medical-center-psychiatric-unit-dies-of-coronavirus/
+  - name: Yaw Asante
+    birth: ?? 
+    death: ??
+    location: Bronx, New York
+    details: Registered Nurse at Lincoln Medical Center
+    source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.Xp5uXpkRVhE
+  - name: Danielle Hendrick DiCenso
+    birth: ?? 1987
+    death: ??
+    location: Wellington, Florida
+    details: Registered Nurse at Palmetto General Hospital
+    source: https://nypost.com/2020/04/14/33-year-old-florida-nurse-dies-after-being-exposed-to-coronavirus/
