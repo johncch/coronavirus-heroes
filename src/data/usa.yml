@@ -1,7 +1,19 @@
 location: usa
 people:
+  - name: Bruce Davis
+    birth: ?? 
+    death: ??
+    location: Milledgeville, Georgia
+    details: Shift Leader at Central State Hospital
+    source: https://www.unionrecorder.com/news/he-was-just-one-of-those-people-who-loved-people/article_461e0938-7dd2-11ea-a645-d70f637a9a95.html
+  - name: Kenneth James Bradshaw
+    birth: 26 Mar 2020
+    death: ??
+    location: Memphis, Tennessee
+    details: Director of Facilities Administration at University of Tennessee Health Science Center
+    source: https://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=kenneth-james-bradshaw&pid=195926607
   - name: Ricardo Castaneda
-    birth: "1956"
+    birth: ?? 1956
     death: ??
     location: New York City, New York
     details: Psychiatrist
@@ -13,34 +25,28 @@ people:
     details: Pediatric Nurse at Kings County Hospital
     source: https://nypost.com/2020/03/30/former-head-nurse-of-jacobi-medical-center-psychiatric-unit-dies-of-coronavirus/
   - name: Yaw Asante
-    birth: ??
+    birth: ?? 
     death: ??
     location: Bronx, New York
     details: Registered Nurse at Lincoln Medical Center
     source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.Xp5uXpkRVhE
-  - name: Bruce Davis
-    birth: ??
+  - name: Danielle Hendrick DiCenso
+    birth: ?? 1987
     death: ??
-    location: Milledgeville, Georgia
-    details: Shift Leader at Central State Hospital
-    source: https://www.unionrecorder.com/news/he-was-just-one-of-those-people-who-loved-people/article_461e0938-7dd2-11ea-a645-d70f637a9a95.html
+    location: Wellington, Florida
+    details: Registered Nurse at Palmetto General Hospital
+    source: https://nypost.com/2020/04/14/33-year-old-florida-nurse-dies-after-being-exposed-to-coronavirus/
   - name: Karla Dominguez
-    birth: "1987"
+    birth: ?? 1987
     death: 24 Apr 2020
     location: El Paso, Texas
     details: Pediatric Intensive Care Nurse at Hospitals of Providence
     source: https://kvia.com/health/2020/04/24/nurse-who-worked-with-children-is-el-pasos-latest-coronavirus-death/
   - name: Roxanne Bent
-    birth: ??
+    birth: ?? 
     death: 18 Apr 2020
     location: Brooklyn, New York
     details: Registered Nurse at NewYork-Presbyterian Brooklyn Methodist Hospital
-    source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.Xp5uXpkRVhE
-  - name: Rebecca Yee
-    birth: ??
-    death: 17 Apr 2020
-    location: New York, New York
-    details: Registered Nurse at Mount Sinai Hospital
     source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.Xp5uXpkRVhE
   - name: John P. Careccia
     birth: 2 Jul 1945
@@ -48,98 +54,134 @@ people:
     location: Woodbridge, New Jersey
     details: Chief and Training Director at Woodbridge Township Ambulance and Rescue Squad
     source: https://www.mycentraljersey.com/story/news/local/people/2020/04/22/john-careccia-woodbridge-nj-ems-chief-dies-covid-19/3006638001/
+  - name: Rebecca Yee
+    birth: ?? 
+    death: 17 Apr 2020
+    location: New York, New York
+    details: Registered Nurse at Mount Sinai Hospital
+    source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.Xp5uXpkRVhE
+  - name: Maurice Dotson
+    birth: ?? 1969
+    death: 17 Apr 2020
+    location: Austin, Texas
+    details: Certified Nursing Assistant at South Austin Nursing Home
+    source: https://www.kvue.com/article/news/health/coronavirus/maurice-dotson-remembered-west-oaks-nursing-assistant-coronavirus-death/269-8a1477d9-c4d0-49da-8980-19a07b41c827
   - name: Jacqueline Rowe
-    birth: ??
+    birth: ?? 
     death: 15 Apr 2020
     location: New York, New York
     details: Labor and Delivery Nurse at Bellevue Hospital
     source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.Xp5uXpkRVhE
   - name: Jenniffer Davis
-    birth: "1976"
+    birth: ?? 1976
     death: 14 Apr 2020
     location: Ballwin, Missouri
     details: Nurse at Meramec Bluffs Care Center
     source: https://www.stltoday.com/lifestyles/health-med-fit/coronavirus/meramec-bluffs-nurse-dies-after-testing-positive-for-covid-19/article_bae297b0-fb8f-5bf3-8311-23873a9da351.html
+  - name: Ellyn Schreiner
+    birth: 12 Dec 1951
+    death: 14 Apr 2020
+    location: Dayton, Ohio
+    details: Registered Nurse at Crossroads Hospice
+    source: https://edition.cnn.com/interactive/2020/health/coronavirus-victims-memories/
+  - name: Priya Khanna
+    birth: ?? 1977
+    death: 14 Apr 2020
+    location: Glen Ridge, New Jersey
+    details: Nephrologist
+    source: https://khn.org/news/a-desperate-scramble-as-covid-19-families-vie-for-access-to-plasma-therapy/  
   - name: Ernesto DeLeon
-    birth: ??
+    birth: ?? 
     death: 13 Apr 2020
     location: New York, New York
     details: Nurse at Bellevue Hospital
     source: https://www.gofundme.com/f/in-loving-memory-of-ernesto-deleon
   - name: Kevin Bundy
-    birth: "1987"
+    birth: ?? 1987
     death: 12 Apr 2020
     location: Darby, Pennsylvania
     details: Paramedic at Mercy Fitzgerald Paramedic Department, Trinity Health
     source: https://6abc.com/delco-coronavirus-emt-first-responder-dies-of/6099768/
   - name: Monica Echeverri Casarez
-    birth: "1971"
+    birth: ?? 1971
     death: 12 Apr 2020
     location: Detroit, Michigan
     details: Surgical Technologist at Harper Hospital
     source: https://www.detroitnews.com/story/news/local/wayne-county/2020/04/13/coronavirus-cuts-down-metro-detroit-activist-monica-echeverri-casarez/2983592001/
+  - name: Gary Sclar
+    birth: ?? 1954
+    death: 12 Apr 2020
+    location: New York City, New York
+    details: Neurologist at Mount Sinai Hospital of Queens
+    source: https://www.theguardian.com/us-news/2020/apr/15/nurses-surgeons-janitors-first-us-health-workers-to-die-covid-19?fbclid=IwAR1w6ukSXLRrhT_-033A71OQx8ongGhBYoNHbIiyEPb184eB9wXKWhiPY3E
   - name: Evelyn Caro
-    birth: "1951"
+    birth: ?? 1951
     death: 11 Apr 2020
     location: Silver Spring, Maryland
     details: Nurse
     source: https://www.baltimoresun.com/coronavirus/bs-md-evelyn-caro-20200415-7ztrj4wprbfbfck7iagnxww7wq-story.html
+  - name: Jay M. Galst
+    birth: ?? 1951
+    death: 11 Apr 2020
+    location: New York City, New York
+    details: Senior Attending Surgeon at New York Eye and Ear Infirmary
+    source: https://www.wnem.com/news/breaking-local-rn-dies-from-covid-19-complications/article_a5cd58ae-7821-11ea-85cd-93cff9ae0abd.html
   - name: Alex Bass
-    birth: ??
+    birth: ?? 1968
     death: 10 Apr 2020
     location: Brooklyn, New York
     details: Physician Assistant at Coney Island Hospital
     source: https://www.brooklynpaper.com/coney-island-mourns-alex-bass/
   - name: Estelita Atienza Solomon
-    birth: ??
+    birth: ?? 
     death: 10 Apr 2020
     location: Brooklyn, New York
     details: Nurse Manager at Wyckoff Heights Medical Center
     source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.Xp5uXpkRVhE
   - name: Mario Salonga
-    birth: "1961"
+    birth: ?? 1961
     death: 10 Apr 2020
     location: Oceanside, New York
     details: Physical Therapist at Mount Sinai South Nassau Hospital
     source: https://www.liherald.com/stories/three-employees-from-mount-sinai-south-nassau-die-after-contracting-the-coronavirus,124002
-  - name: Roger Liddell
-    birth: ??
-    death: 10 Apr 2020
-    location: Flint, Michigan
-    details: ICU/CCU Supply Chain Manager at McLaren Flint Hospital
-    source: https://www.mlive.com/news/flint/2020/04/mclaren-flint-hospital-employee-dies-due-to-coronavirus-complications.html
   - name: Quen Agbor Ako
-    birth: "1967"
+    birth: ?? 1967
     death: 10 Apr 2020
     location: Randallstown, Maryland
     details: Nursing Home Nurse
     source: https://baltimorebrew.com/2020/04/16/exclusive-nurse-dies-of-covid-19-at-futurecares-randallstown-nursing-home/
+  - name: Roger Liddell
+    birth: ?? 
+    death: 10 Apr 2020
+    location: Flint, Michigan
+    details: ICU/CCU Supply Chain Manager at McLaren Flint Hospital
+    source: https://www.mlive.com/news/flint/2020/04/mclaren-flint-hospital-employee-dies-due-to-coronavirus-complications.html
   - name: Mary Ellen Porter
-    birth: "1955"
+    birth: ?? 1955
     death: 9 Apr 2020
     location: Staten Island, New York
     details: Nurse Manager at Richmond University Medical Center
     source: https://www.silive.com/coronavirus/2020/04/mary-ellen-porter-rumc-nurse-manager-reportedly-dies-after-bout-with-coronavirus.html
   - name: Paul Novicki
-    birth: "1969"
+    birth: ?? 1969
     death: 9 Apr 2020
     location: Huron Township, Michigan
     details: Rapid Response EMS Paramedic
     source: https://www.fox2detroit.com/news/son-of-emt-who-died-of-covid-19-urges-everyone-to-stay-home-to-avoid-their-nightmare
   - name: Leo De La Cruz
-    birth: ??
+    birth: ?? 
     death: 8 Apr 2020
     location: Jersey City, New Jersey
     details: Physician at CarePoint Health Christ Hospital
     source: https://www.nj.com/hudson/2020/04/christ-hospital-doctor-who-treated-covid-19-patients-dies.html
   - name: Luis Caldera-Nieves
-    birth: ??
+    birth: ?? 
     death: 8 Apr 2020
     location: Miami, Florida
     details: Gynecologist at University of Miami Health System
     source: https://www.local10.com/news/local/2020/04/09/longtime-south-florida-doctor-dies-from-coronavirus-complications/
   - name: Ronald Verrier
-    birth: "1961"
+    birth: ?? 1961
     death: 8 Apr 2020
     location: Bronx, New York
     details: Trauma Surgeon at St. Barnabas Hospital
@@ -150,42 +192,60 @@ people:
     location: New York City, New York
     details: Registered Nurse, Neonatal Intensive Care Unit at Bellevue Hospital
     source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.XpPGyHIRXb3
+  - name: Mike Field
+    birth: ?? 1961
+    death: 8 Apr 2020
+    location: Valley Stream, New York
+    details: Emergency Medical Technician at New York City Fire Department
+    source: https://www.fireengineering.com/2020/04/09/486509/ny-firefighter-dies-after-contracting-coronavirus/#gref
+  - name: Devin Dale Francis
+    birth: ?? 1976
+    death: 8 Apr 2020
+    location: Miami, Florida
+    details: Radiology Technician at Jackson Memorial Hospital
+    source: https://wsvn.com/news/local/2-south-florida-healthcare-workers-die-of-coronavirus-related-complications/
   - name: Aleyamma John
-    birth: "1955"
+    birth: ?? 1955
     death: 7 Apr 2020
     location: Queens, New York
     details: Registered Nurse at New York City Health + Hospitals/Queens Hospital Center
     source: https://www.nysna.org/memoriam-fallen-nysna-nurses#.XpFChXIRXb2
   - name: Ali Dennis Guillermo
-    birth: "1976"
+    birth: ?? 1976
     death: 7 Apr 2020
     location: Patchogue, New York
     details: Registered Nurse at Long Island Community Hospital
     source: https://www.newsday.com/news/health/coronavirus/coronavirus-long-island-new-york-1.43737261
   - name: Elliott Samet
-    birth: ??
+    birth: ?? 
     death: 7 Apr 2020
     location: Passaic, New Jersey
     details: 'Neonatologist at St. Mary''s General Hospital'
     source: https://www.northjersey.com/story/news/coronavirus/2020/04/07/coronavirus-beloved-passaic-nj-pediatrician-st-marys-doctor-dies/2966884001/
   - name: Vianna Thompson
-    birth: "1968"
+    birth: ?? 1968
     death: 7 Apr 2020
     location: Reno, Nevada
     details: Registered Nurse at VA Northern Sierra Health Care System
     source: https://www.rgj.com/story/news/2020/04/07/covid-19-reno-nurse-dies-va-hospital-where-she-cared-patients/2966935001/
-  - name: Rose Harrison
-    birth: ??
-    death: 6 Apr 2020
-    location: Hamilton, Alabama
-    details: Nurse at Marion Regional Nursing Home
-    source: https://www.cbs42.com/news/family-marion-county-nurse-clinging-to-life-after-contracting-covid-19/
   - name: Mary Virginia Howell Christopher
-    birth: "1922"
+    birth: ?? 1922
     death: 6 Apr 2020
     location: New Orleans, Louisiana
     details: 1st Lieutenant, Chief Nurse at 134th Evacuation Hospital (WWII)
     source: https://obits.nola.com/obituaries/nola/obituary.aspx?n=mary-virginia-howell-christopher&pid=195930312&fhid=14935
+  - name: Rose Harrison
+    birth: ?? 
+    death: 6 Apr 2020
+    location: Hamilton, Alabama
+    details: Nurse at Marion Regional Nursing Home
+    source: https://www.cbs42.com/news/family-marion-county-nurse-clinging-to-life-after-contracting-covid-19/
+  - name: Angelo N. Patsalis
+    birth: 27 Apr 1956
+    death: 6 Apr 2020
+    location: Detroit, Michigan
+    details: Family Physician at Henry Ford Medical Group
+    source: https://www.dignitymemorial.com/obituaries/livonia-mi/angelo-patsalis-9115996
   - name: Chris Firlit
     birth: ?? 1983
     death: 5 Apr 2020
@@ -193,109 +253,121 @@ people:
     details: Senior Resident Oral Maxillofacial Surgeon at Ascension Macomb-Oakland
     source: https://www.detroitnews.com/story/business/2020/04/05/help-coronavirus-patients-lose-job-beaumont-tells-workers/2948002001/
   - name: Daisy Doronila
-    birth: ??
+    birth: ?? 
     death: 5 Apr 2020
     location: Kearny, New Jersey
     details: Nurse at Hudson County Jail
     source: https://www.nj.com/hudson/2020/04/nurse-at-hudson-county-jail-dies-from-coronavirus.html
   - name: David Wolin
-    birth: "1946"
+    birth: ?? 1946
     death: 5 Apr 2020
     location: Brooklyn, New York
     details: Radiologist, Mammography and Breast Imaging at Brooklyn Hospital Center
     source: https://newyork.cbslocal.com/video/4508374-family-mourns-brooklyn-doctor-who-died-of-covid-19/
   - name: Earl Bailey
-    birth: "1964"
+    birth: ?? 1964
     death: 5 Apr 2020
     location: Broward County, Florida
     details: Nurse at Florida Medical Center
     source: https://www.nbcmiami.com/news/local/broward-county-nurse-dies-after-testing-positive-for-coronavirus/2217241/
   - name: Edwin Montanano
-    birth: ??
+    birth: ?? 
     death: 5 Apr 2020
     location: Kearny, New Jersey
     details: Nurse at Hudson County Correctional Center
     source: https://www.northjersey.com/story/news/hudson/2020/04/06/two-hudson-county-jail-nurses-die-coronavirus-complications/2954964001/
   - name: Prea Nankieshore
-    birth: "1986"
+    birth: ?? 1986
     death: 5 Apr 2020
     location: Long Island, New York
     details: Emergency Room Clerk at Long Island Jewish Forest Hills Hospital
     source: https://www.ny1.com/nyc/all-boroughs/news/2020/04/09/queens-er-clerk-dies-from-coronavirus
   - name: Tamajin Ali
-    birth: "1971"
+    birth: ?? 1971
     death: 5 Apr 2020
     location: Philadelphia, Pennsylvania
     details: Nursing Supervisor at Centennial Healthcare and Rehabilitation Center
     source: https://6abc.com/centennial-healthcare-and-rehabilitation-center-coronavirus-philly-covid19-philadelphia/6079853/
+  - name: Obinna Chibueze Eke
+    birth: 24 Jul 1977
+    death: 5 Apr 2020
+    location: Irvington, New Jersey
+    details: Patient Care Technician at Univerist Hospital Newark
+    source: https://kaftanpost.com/ultimate-sacrifice-nigerian-american-medical-officer-obinna-chibueze-eke-dies-in-new-jersey-of-covid-19-gotten-from-patients/
   - name: Angeline Bernadel
-    birth: "1968"
+    birth: ?? 1968
     death: 4 Apr 2020
     location: Milford, Connecticut
     details: Nurse at West River Healthcare Center
     source: https://www.courant.com/coronavirus/hc-news-coronavirus-nurse-death-20200416-kqtha5rp4nbhrngodzxziknj3y-story.html
+  - name: Don Ryan Batayola
+    birth: ?? 1979
+    death: 4 Apr 2020
+    location: New Jersey
+    details: Occupational Therapist
+    source: https://cebudailynews.inquirer.net/303812/selflessness-looking-out-for-others-a-cebuano-frontliners-legacy
   - name: Jesus Zambrano
-    birth: "1966"
+    birth: ?? 1966
     death: 4 Apr 2020
     location: Oceanside, New York
     details: Pediatrician at Mount Sinai South Nassau Hospital
     source: https://www.liherald.com/stories/three-employees-from-mount-sinai-south-nassau-die-after-contracting-the-coronavirus,124002
   - name: Victor Rivera
-    birth: ??
+    birth: ?? 
     death: 4 Apr 2020
     location: Langhorne, Pennsylvania
     details: Pediatrician at Margiotti & Kroll Pediatrics 
     source: https://patch.com/pennsylvania/newtown-pa/he-was-family-bucks-co-pediatrician-dies-coronavirus
-  - name: Don Ryan Batayola
-    birth: "1979"
-    death: 4 Apr 2020
-    location: New Jersey
-    details: Occupational Therapist
-    source: https://cebudailynews.inquirer.net/303812/selflessness-looking-out-for-others-a-cebuano-frontliners-legacy
   - name: Charlie Safley
-    birth: "1942"
+    birth: ?? 1942
     death: 3 Apr 2020
     location: Memphis, Tennessee
     details: Dermatologist at Private Practice
     source: https://www.commercialappeal.com/story/news/local/2020/04/04/memphis-dermatologist-charles-safley-dies-coronavirus-complications/2948516001/
   - name: Jesus Villaluz
-    birth: "1945"
+    birth: ?? 1945
     death: 3 Apr 2020
     location: Teaneck, New Jersey
     details: Patient Transport Worker at Holy Name Medical Center
     source: https://www.nj.com/bergen/2020/04/nj-hospital-worker-known-for-his-unforgettable-smile-dies-from-coronavirus.html
+  - name: Steven J.  Huber
+    birth: 23 Aug 1955
+    death: 3 Apr 2020
+    location: Jefferson City, Missouri
+    details: Orthodontist at Huber Orthodontics
+    source: https://krcgtv.com/news/coronavirus/jefferson-city-orthodonist-dies-from-covid-19
   - name: John Abruzzo
-    birth: "1957"
+    birth: ?? 1957
     death: 2 Apr 2020
     location: Huntington, New York
     details: Nurse at Huntington Hospital
     source: https://www.newsday.com/news/health/coronavirus/huntington-hospital-nurse-dies-coronavirus-1.43643991
   - name: Sean Boynes
-    birth: "1974"
+    birth: ?? 1974
     death: 2 Apr 2020
     location: Greenbelt, Maryland
     details: Pharmacy Manager at AbsoluteCare Health Clinic
     source: https://www.washingtonpost.com/local/passionate-about-making-sure-people-had-care-sean-boynes-kept-going-to-work/2020/04/23/302fc266-856a-11ea-878a-86477a724bdb_story.html
   - name: Ashraf Abdo
-    birth: "1960"
+    birth: ?? 1960
     death: 1 Apr 2020
     location: New York, New York
     details: General Practitioner
     source: https://www.egypttoday.com/Article/1/83243/Egyptian-doctor-dies-in-United-States-due-to-COVID-19
   - name: Isaac Abadi
-    birth: "1936"
+    birth: ?? 1936
     death: 1 Apr 2020
     location: New York, New York
     details: Rheumatologist at Hospital for Special Surgery
     source: https://www.local10.com/news/local/2020/04/04/prominent-venezuelan-doctor-dies-in-miami-of-coronavirus/
   - name: James House
-    birth: "1960"
+    birth: ?? 1960
     death: Apr 2020
     location: Detroit, Michigan
     details: Nurse at Omni Continuing Care
     source: https://www.freep.com/story/news/local/2020/04/04/coronavirus-michigan-nurses-die/2943336001/?fbclid=IwAR3pXZJNk3gkmU0rcl3d0AnYTrp9g3irnUCfQ68y9rZNKBQznJAG-odT9vA
   - name: Patrick Cain
-    birth: ??
+    birth: ?? 
     death: Apr 2020
     location: Flint, Michigan
     details: Registered Nurse, ICU at McLaren Flint
@@ -307,31 +379,31 @@ people:
     details: Physician - Emergency Medicine at East Orange General Hospital
     source: https://www.cbsnews.com/news/coronavirus-er-doctor-died-in-husbands-arms-week-afer-symptoms-new-jersey-hospital-dr-frank-gabrin/
   - name: Kim King-Smith King-Smith
-    birth: "1967"
+    birth: ?? 1967
     death: 31 Mar 2020
     location: Newark, New Jersey
     details: EKG technician at Newark University Hospital
     source: https://abc7ny.com/coronavirus-newark-hospital-technician-ekg-dies/6069617/
   - name: Larrice Anderson
-    birth: ??
+    birth: ?? ??
     death: 31 Mar 2020
     location: New Orleans, Louisiana
     details: Nurse at New Orleans East Hospital
     source: https://www.nola.com/news/coronavirus/article_1deda660-7460-11ea-a260-7f9979779d87.html
   - name: Lisa Ewald
-    birth: "1966"
+    birth: ?? 1966
     death: 31 Mar 2020
     location: Detroit, Michigan
     details: Nurse at Henry Ford Health System
     source: https://www.michiganradio.org/post/lisa-ewald-henry-ford-nurse-dies-after-testing-positive-covid-19
   - name: Andres Benitez
-    birth: ??
+    birth: ?? 
     death: 30 Mar 2020
     location: Teaneck, New Jersey
     details: Food Caterer at Holy Name Medical Center
     source: https://dailyvoice.com/new-jersey/teaneck/news/beloved-holy-name-caterer-killed-by-coronavirus/785477/
   - name: Divinia Accad
-    birth: "1948"
+    birth: ?? 1948
     death: 30 Mar 2020
     location: Detroit, Michigan
     details: Nurse at John D. Dingell VA Medical Center
@@ -343,25 +415,25 @@ people:
     details: Pediatric Neurosurgeon at Montefiore
     source: https://www.washingtonpost.com/lifestyle/2020/04/01/neurosurgeon-who-became-famous-separating-conjoined-twins-died-covid-19-his-real-legacy-is-his-humanity/
   - name: Jeffrey Baumbach
-    birth: "1963"
+    birth: ?? 1963
     death: 30 Mar 2020
     location: Stockton, California
     details: 'Nurse at St. Joseph''s Medical Center'
     source: https://www.recordnet.com/news/20200403/nurse-at-st-josephs-medical-center-dies-of-coronavirus-complications
   - name: Kevin Graiani
-    birth: "1963"
+    birth: ?? 1963
     death: 30 Mar 2020
     location: New York, New York
     details: Nurse Practitioner
     source: https://scanlanfuneralhome.com/tribute/details/9478/Kevin-Graiani/obituary.html
   - name: Raul D. Eslao
-    birth: "1967"
+    birth: ?? 1967
     death: 30 Mar 2020
     location: Westland, Michigan
     details: Registered Nurse
     source: https://www.gofundme.com/f/raul-della-eslao-memorial-fund
   - name: Barbara Finch
-    birth: "1957"
+    birth: ?? 1957
     death: 29 Mar 2020
     location: Emporia, Virginia
     details: Licensed Practical Nurse at Southern Virginia Regional Medical Center
@@ -385,13 +457,13 @@ people:
     details: Registered Nurse at Cedars Sinai Hospital
     source: https://www.forevermissed.com/rosary-castro-olega/about
   - name: Tomas Pattugalan
-    birth: "1950"
+    birth: ?? 1950
     death: 29 Mar 2020
     location: Queens, New York
     details: Internal Medicine Physician at Primary PartnerCare
     source: http://www.oleantimesherald.com/news/state/primary-partnercare-loses-primary-care-physician-to-covid-19/article_4faacd53-2389-5770-bc04-ad4907f13e22.html
   - name: Capt. Douglas Linn Hickok
-    birth: "1963"
+    birth: ?? 1963
     death: 28 Mar 2020
     location: East Stroudsburg, Pennsylvania
     details: Physician Assistant
@@ -403,7 +475,7 @@ people:
     details: Head Nurse at Jacobi Medical Centre
     source: https://www.pulse.com.gh/news/local/covid-19-top-ghanaian-nurse-in-the-us-dies-of-coronavirus/5ntmbc5
   - name: Valeria Viveros
-    birth: "1999"
+    birth: ?? 1999
     death: 28 Mar 2020
     location: Riverside, California
     details: Nursing Assistant  at Extended Care Hospital of Riverside
@@ -415,25 +487,25 @@ people:
     details: SICU Nurse Manager at Jackson Memorial Hospital
     source: https://www.cbsnews.com/news/coronavirus-nurse-dies-from-covid-19-miami-hospital/
   - name: Mark Respler
-    birth: "1954"
+    birth: ?? 1954
     death: 27 Mar 2020
     location: Brooklyn, New York
     details: Urologist at Ahava Medical & Rehabilitation Center
     source: https://hamodia.com/2020/03/27/bde-dr-mark-allen-respler-niftar-coronavirus/
   - name: Noel Sinkiat
-    birth: "1956"
+    birth: ?? 1956
     death: 27 Mar 2020
     location: Washington, DC
     details: Nurse at Howard University Hospital
     source: https://www.nbcwashington.com/news/local/howard-university-hospital-nurse-died-of-coronavirus-wife/2263921/
   - name: Diedre Wilkes
-    birth: "1978"
+    birth: ?? 1978
     death: 26 Mar 2020
     location: Newnan, Georgia
     details: Mammogram Technician at Piedmont Newnan Hospital
     source: https://www.nbcnews.com/news/us-news/coronavirus-georgia-mom-who-worked-hospital-found-dead-home-her-n1168386
   - name: William Vincent Murdock
-    birth: "1957"
+    birth: ?? 1957
     death: 26 Mar 2020
     location: Miami, Florida
     details: MRI Technologist at University of Miami Health System
@@ -445,7 +517,7 @@ people:
     details: Physician - Internal Medicine at Northwest Medical Center
     source: https://wsvn.com/news/local/broward/margate-doctor-becomes-first-medical-professional-to-die-from-covid-19-in-south-florida/?utm_medium=social&utm_source=twitter_wsvn
   - name: Patricia Wilke
-    birth: "1957"
+    birth: ?? 1957
     death: 25 Mar 2020
     location: Winslow, Arizona
     details: Pharmacist at Safeway
@@ -463,38 +535,32 @@ people:
     details: Assistant Nurse Manager at Mount Sinai West, Manhattan
     source: https://www.nytimes.com/2020/03/31/obituaries/kious-kelly-dead-coronavirus.html
   - name: Rabbi Yaakov Meltzer
-    birth: "1960"
+    birth: ?? 1960
     death: 24 Mar 2020
     location: Brooklyn, New York
     details: Physician Assistant at Quality Healthcare
     source: https://www.jpost.com/breaking-news/yaakov-meltzer-a-member-of-queens-hatzolah-dies-at-age-60-622551
   - name: Judy Wilson-Griffin
-    birth: ??
+    birth: ?? 
     death: 20 Mar 2020
     location: St. Louis, Missouri
     details: 'Perinatal Clinical Nurse Specialist at SSM Health St. Mary''s Hospital'
     source: http://www.stlamerican.com/news/local_news/nurse-judy-wilson-griffin-is-first-covid-19-death-in-st-louis-region/article_1d422bea-6b06-11ea-83e1-17bbd703c8fb.html
   - name: John Cofrancesco
-    birth: "1968"
+    birth: ?? 1968
     death: 19 Mar 2020
     location: Montclair, New Jersey
     details: Administrator at Family of Caring
     source: https://dailyvoice.com/new-jersey/essex/news/he-lived-his-passion-bergenfield-dad-montclair-nursing-home-admin-killed-by-coronavirus/785481/
   - name: Stephen Schwartz
-    birth: ??
+    birth: ?? 
     death: 17 Mar 2020
     location: Seattle, Washington
     details: Pathologist at University of Washington
     source: https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-march-18-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-nation/#update-12600066
   - name: Doug Bass
-    birth: "1956"
+    birth: ?? 1956
     death: Mar 2020
     location: New York City, New York
     details: Medical Director at Phoenix House
     source: https://abc7ny.com/doctor-dead-doug-bass-killed-by-coronavirus-nyc/6088268/
-  - name: Kenneth James Bradshaw
-    birth: 26 Mar 2020
-    death: ??
-    location: Memphis, Tennessee
-    details: Director of Facilities Administration at University of Tennessee Health Science Center
-    source: https://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=kenneth-james-bradshaw&pid=195926607
