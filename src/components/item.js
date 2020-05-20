@@ -19,7 +19,7 @@ const formatDate = dateStr => {
     const output = `${month} ${d}, ${year}`
     return output
   }
-  return "?"
+  return ""
 }
 
 const Item = ({ name, birth, death, location, details, source }) => {
@@ -53,9 +53,11 @@ const Item = ({ name, birth, death, location, details, source }) => {
         `}
       >
         <h3>{name}</h3>
-        <p>
-          {formatDate(birth)}–{formatDate(death)}
-        </p>
+        {birth || death ? (
+          <p>
+            {formatDate(birth)}–{formatDate(death)}
+          </p>
+        ) : null}
         <p>{details}</p>
         <p>{location}</p>
         {source ? (
