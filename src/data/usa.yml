@@ -1,8 +1,8 @@
 location: usa
 people:
   - name: Kenneth James Bradshaw
-    birth: "2020-03-26"
-    death: ""
+    birth: ""
+    death: "2020-03-26"
     location: "Memphis, Tennessee"
     details: >-
       Director of Facilities Administration at University of Tennessee Health
@@ -1348,7 +1348,7 @@ people:
     source: >-
       https://nypost.com/2020/04/25/nyc-emt-commits-suicide-with-gun-belonging-to-his-dad/
   - name: Margaret Meier
-    birth: "9025"
+    birth: "1924"
     death: "2020-04-26"
     location: "Hoboken, New Jersey"
     details: "Registered Nurse, Emergency Department (retired) at St. Mary's Hospital"
