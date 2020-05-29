@@ -9,6 +9,9 @@ const formatDate = dateStr => {
   if (dateStr) {
     const yearOnly = dateStr.length <= 4
     const date = new Date(dateStr)
+    if (isNaN(date)) {
+      console.log(dateStr)
+    }
     const year = yFormatter.format(date)
 
     if (yearOnly) {
